@@ -1,2 +1,2 @@
 # Seaborn
-seaborn practice
+seaborn tutorial practice
